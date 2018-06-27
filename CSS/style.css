@@ -1,0 +1,144 @@
+/*body{
+  margin:95px;
+  font-size:35px;
+  /*font-family:lora,serif;*/
+/*}
+.logo {
+  border-radius:50%;
+}
+
+header, main{
+ text-align:center;
+}
+
+#contact {
+  background:black;
+  color:white;
+}
+
+a{
+  text-decoration:none;
+  color:lightblue;
+}
+
+a:hover{
+  text-decoration:underline;
+}
+
+footer{
+  text-align:center;
+}
+
+header{
+  border-bottom:1px solid;
+}
+
+main{
+  margin:20px;
+  padding:auto;
+  border-bottom:1px solid;
+}
+
+.page-header{
+  font-family: 'Montserrat', sans-serif;
+}
+
+.quote{
+  background-image:url("https://unsplash.it/600/300?image=354");
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-attachment:fixed,scroll;
+  background-position:center;
+  width:700px;
+  height:500px;
+}
+
+
+.wrapper{
+  display:block;
+  /*float:center;*/
+/*  position:absolute;
+  margin-left : auto;
+  margin-right : auto;
+  width : 400px;
+
+
+}
+/* Font utilisée - Montserrat */
+/* Icônes de Font Awesome */
+
+/* La partie HTML est prête, la seule modification c'est l'ajout des icônes */
+
+
+/* Reproduire le design comme ici https://codepen.io/c4pprio/live/12dbdf49128a282ae62a325b53d717f6
+*/
+body{
+  margin:95px;
+  font-size:35px;
+  /*font-family:lora,serif;*/
+}
+.logo {
+  border-radius:50%;
+}
+
+header, main{
+ text-align:center;
+}
+
+#contact {
+  background:black;
+  color:white;
+}
+
+a{
+  text-decoration:none;
+  color:lightblue;
+}
+
+a:hover{
+  text-decoration:underline;
+}
+
+footer{
+  text-align:center;
+}
+
+header{
+  border-bottom:1px solid;
+}
+
+main{
+  margin:20px;
+  padding:auto;
+  border-bottom:1px solid;
+}
+
+html{
+  font-family: 'Montserrat', sans-serif;
+}
+
+.quote{
+  background-image:url("https://unsplash.it/600/300?image=354");
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-attachment:fixed,scroll;
+  background-position:center;
+  width:9500px;
+  height:500px;
+}
+
+
+.wrapper{
+  display: block;
+  position:absolute;
+  margin-left : 380px;
+  margin-top: 150px;
+  margin-bottom:500px;
+  width : 250px;
+  text-align:center;
+  color:white;
+}
+/* Font utilisée - Montserrat */
+/* Icônes de Font Awesome */
+
+/* La partie HTML est prête, la seule modification c'est l'ajout des icônes */
